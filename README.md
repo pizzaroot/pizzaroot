@@ -10,5 +10,5 @@ No. 1 Competitive Programmer in Sejong University
 
 ## Skills
 - DJMAX RESPECT V Master
-- PUMP IT UP PHOENIX ADVANCED Lv.5
+- PUMP IT UP PHOENIX ADVANCED Lv.6
 - SOUND VOLTEX EXCEED GEAR VOLFORCE 17.472
