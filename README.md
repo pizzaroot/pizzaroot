@@ -12,6 +12,8 @@ No. 1 Competitive Programmer in Sejong University
 - 백준닷컴 강남스타일 올솔브
 - 봇치 코스프레 누텔라 달성
 - 월드 피자나라 페스티벌 19년 연속 파이널 라운드 진출
+- 클래시 오브 브레이커스 데스티니 토너먼트 16강 진출
+- 올리브유 공식 33만 팔로워 감사장 (Honorable Mention)
 
 ## Skills
 - DJMAX RESPECT V Master
