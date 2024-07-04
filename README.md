@@ -11,6 +11,7 @@ No. 1 Competitive Programmer in Sejong University
 - SCPC 고등어 영역 1위 수상
 - 백준닷컴 강남스타일 올솔브
 - 봇치 코스프레 누텔라 달성
+- 월드 피자나라 페스티벌 19년 연속 파이널 라운드 진출
 
 ## Skills
 - DJMAX RESPECT V Master
