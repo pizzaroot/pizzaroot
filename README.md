@@ -6,6 +6,9 @@ No. 1 Competitive Programmer in Sejong University
 ## Problem Solving
 [![Codeforces](https://cf.leed.at?id=pizzaroot)](https://codeforces.com/profile/pizzaroot)
 
+## I am currently...
+- 지구 자전축 90% 충전 및 자석 리필 전문 기업 이사장
+
 ## Achievements
 - 현대모비스 제로투더 롯데월드 어드벤쳐 특별상 수상
 - SCPC 고등어 영역 1위 수상
